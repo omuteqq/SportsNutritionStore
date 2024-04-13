@@ -1,0 +1,398 @@
+[
+	{
+		"productName": "Протеиновый батончик PowerPro ",
+		"productDescription": "Протеиновый батончик PowerPro - это высококачественный продукт, разработанный специально для тех, кто стремится поддерживать здоровый образ жизни и достигать своих фитнес-целей",
+		"recommendations": "Употреблять 2 раза в день",
+		"price": 99.99,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Протеин",
+		"quantityAvailable": 100,
+		"weight": 500
+	},
+	
+	{
+		"productName": "Гейнер PowerPro",
+		"productDescription": "Гейнер PowerPro поможет вам увеличить ваши силовые показатели",
+		"recommendations": "Употреблять 2 раза в день",
+		"price": 4.59,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	
+	{
+		"productName": "Креатин",
+		"productDescription": "Качественная банка креатина",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 120.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Креатин",
+		"quantityAvailable": 20,
+		"weight": 750
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	
+	{
+		"productName": "Креатин",
+		"productDescription": "Качественная банка креатина",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 120.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Креатин",
+		"quantityAvailable": 20,
+		"weight": 750
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	
+	{
+		"productName": "Креатин",
+		"productDescription": "Качественная банка креатина",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 120.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Креатин",
+		"quantityAvailable": 20,
+		"weight": 750
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"	": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	},
+	{
+		"productName": "Гейнер мощный",
+		"productDescription": "Качественный гейнер",
+		"recommendations": "Тут написаны рекомендации к применению",
+		"price": 60.00,
+		"composition": {
+			"protein": 25.0,
+			"carbohydrate": 60.0,
+			"fats": 10.0
+		},
+		"productCategory": "Гейнер",
+		"quantityAvailable": 50,
+		"weight": 300
+	}
+]

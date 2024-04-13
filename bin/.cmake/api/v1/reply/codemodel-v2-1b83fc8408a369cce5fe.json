@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f200c5540b4723686ab0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Auth",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Auth::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Auth-Debug-b0d2035a9d98ee29fd16.json",
+					"name" : "Auth",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Auth_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Auth_autogen-Debug-fcc425121ca838264795.json",
+					"name" : "Auth_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Auth_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Auth_autogen_timestamp_deps-Debug-418a3980bb50b94db9ea.json",
+					"name" : "Auth_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/BSUIR/FundamentalsOfAlgorithmizationAndProgramming/QtTests/Auth/bin",
+		"source" : "D:/BSUIR/FundamentalsOfAlgorithmizationAndProgramming/QtTests/Auth"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

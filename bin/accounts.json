@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Александр",
+        "lastName": "Чиж",
+        "login": "admin",
+        "password": "�e�Y B/�A~Hg��O��J\u001f?�\u001f�~������z�",
+        "patronymic": "Валерьевич",
+        "role": true
+    },
+    {
+        "firstName": "q",
+        "lastName": "q",
+        "login": "q",
+        "password": "�5��;�d\u001b�\u000e P�i2˲�\u0003J\r��\u001d�ꂦ�W��",
+        "patronymic": "q",
+        "role": false
+    },
+    {
+        "firstName": "q",
+        "lastName": "q",
+        "login": "qq",
+        "password": "�5��;�d\u001b�\u000e P�i2˲�\u0003J\r��\u001d�ꂦ�W��",
+        "patronymic": "q",
+        "role": false
+    }
+]
