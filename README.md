@@ -3,4 +3,4 @@ This is a desktop application written in ***C++*** programming language using th
 
 
 
-**Created by Surovy Ivan Andreevich**
+**Developed by Surovy Ivan Andreevich**
